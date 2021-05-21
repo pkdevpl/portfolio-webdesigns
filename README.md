@@ -33,16 +33,3 @@
 ## MPP Projekt
 
 ![mppprojekt](images/mpproject.jpg)
-
-## Agilento
-
-![agilento](images/agilento-stick.jpg)
-
-## Business Cards
-
-![dkpartners](images/dkpartners-cards.jpg)
-![obelix](images/obelix-cards.jpeg)
-![agilento](images/agilento-cards.jpg)
-
-
-
