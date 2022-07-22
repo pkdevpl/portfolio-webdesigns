@@ -12,6 +12,10 @@
 
 ![piekarnia](images/piekarnia-promo.jpg)
 
+## Pomegarnat Gallery
+
+![pomegranat](images/0223_homepage.png)
+
 ## Evastone
 
 ![evastone](images/evastone-homepage.jpg)
